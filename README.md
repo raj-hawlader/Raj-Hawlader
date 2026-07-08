@@ -1,7 +1,5 @@
-👋 Hi, I’m Raj Hawlader, a passionate developer focused on Competitive Programming and Web Development.
+👋 Hi, I’m Raj Hawlader, a passionate developer focused on Competitive Programming and Development.
 
-🧠 Currently diving deep into the MERN stack.
-
-💼 Open to collaboration in Front-end development, especially with React and Tailwind CSS.
+💼 Open to collaboration in Full-Stack development
 
 📫 Reach out anytime - rajhawlader385.rh@gmail.com
