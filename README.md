@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=raj-hawlader&theme=dark&hide_border=false)<br/>
